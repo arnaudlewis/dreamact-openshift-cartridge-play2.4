@@ -18,6 +18,11 @@ function restart {
 }
 
 function build {
+    # Allow activation of java8 on openshift.
+    # By default it still the version 7
+    export JAVA_HOME=/etc/alternatives/java_sdk_1.8.0
+    export PATH=${JAVA_HOME}/bin:${PATH}
+
     # Workaround for failure in npm install when a package in package.json
     # points to a git commit.
     # This issue occurs because we are running in the context of a
