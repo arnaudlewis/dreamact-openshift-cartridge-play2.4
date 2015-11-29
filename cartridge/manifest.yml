@@ -84,4 +84,4 @@ Endpoints:
     Backend: ''
     Options:
       health: true
-Source-Url: https://github.com/tyrcho/openshift-cartridge-play2/archive/play-2.3.0.zip
+Source-Url: https://github.com/arnaudlewis/dreamact-openshift-cartridge-play2.4/tree/master/cartridge/dreamact-play2.4.zip
