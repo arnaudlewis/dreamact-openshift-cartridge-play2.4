@@ -1,0 +1,5 @@
+OPENSHIFT CARTRIDGE PLAY FRAMEWORK 2.4.3
+
+play 2.4.3
+activator 1.3.6
+
