@@ -1,4 +1,4 @@
-Name: play2
+  Name: play2
 Cartridge-Short-Name: Play2
 Display-Name: Play Framework 2.4.0
 Description: The High Velocity Web Framework For Java and Scala
@@ -84,4 +84,4 @@ Endpoints:
     Backend: ''
     Options:
       health: true
-Source-Url: https://github.com/arnaudlewis/dreamact-openshift-cartridge-play2.4/tree/master/cartridge/dreamact-play2.4.zip
+Source-Url: https://github.com/arnaudlewis/dreamact-openshift-cartridge-play2.4/raw/master/cartridge/dreamact-play2.4.zip
